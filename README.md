@@ -58,6 +58,3 @@ Through this project, I learned:
 ## Output
 - Cleaned dataset CSV
 - Multiple visual insights and charts
-
-### Author
-Data Analytics Project using Python
